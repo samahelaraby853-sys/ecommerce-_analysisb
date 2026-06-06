@@ -1,0 +1,10 @@
+Set,Model,Metric,Value
+Train,LinearReg,R²,0.4816
+Train,LinearReg,RMSE,188.69
+Val,LinearReg,R²,0.0342
+Val,LinearReg,RMSE,138.21
+Test,LinearReg,R²,-0.9057
+Test,LinearReg,RMSE,303.97
+Test,LogisticReg,Accuracy,0.9435
+Test,LogisticReg,AUC,0.9555
+Test,LogisticReg,F1,0.9663
